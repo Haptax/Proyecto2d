@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: ebb601f8d64496d42910bb40fbe75fe7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7199951135977279049
+    second: DragonCaminando_0
+  - first:
+      213: 6283162556003888769
+    second: DragonCaminando_1
+  - first:
+      213: 8706864959306336294
+    second: DragonCaminando_2
+  - first:
+      213: 2274549421443323736
+    second: DragonCaminando_3
+  - first:
+      213: -4344882294857648244
+    second: DragonCaminando_4
+  - first:
+      213: 8428205427337120015
+    second: DragonCaminando_5
+  - first:
+      213: 7599750258279892543
+    second: DragonCaminando_6
+  - first:
+      213: -9204192705742241132
+    second: DragonCaminando_7
+  - first:
+      213: -2158827795711218046
+    second: DragonCaminando_8
+  - first:
+      213: 5801652115545077621
+    second: DragonCaminando_9
+  - first:
+      213: 4259133670158458127
+    second: DragonCaminando_10
+  - first:
+      213: -410036884252916341
+    second: DragonCaminando_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DragonCaminando_0
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 248
+        width: 623
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e8814496d5be360800000000000000
+      internalID: 7199951135977279049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonCaminando_1
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 248
+        width: 620
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ea5a81e07423750800000000000000
+      internalID: 6283162556003888769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonCaminando_2
+      rect:
+        serializedVersion: 2
+        x: 4175
+        y: 248
+        width: 620
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62800ceac8ff4d870800000000000000
+      internalID: 8706864959306336294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonCaminando_3
+      rect:
+        serializedVersion: 2
+        x: 5972
+        y: 248
+        width: 626
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8571331d5a2d09f10800000000000000
+      internalID: 2274549421443323736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonCaminando_4
+      rect:
+        serializedVersion: 2
+        x: 7769
+        y: 248
+        width: 632
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c873020b290e3b3c0800000000000000
+      internalID: -4344882294857648244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonCaminando_5
+      rect:
+        serializedVersion: 2
+        x: 9572
+        y: 248
+        width: 635
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09c27e7e2007f470800000000000000
+      internalID: 8428205427337120015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonCaminando_6
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 248
+        width: 635
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36c47e389cb77960800000000000000
+      internalID: 7599750258279892543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonCaminando_7
+      rect:
+        serializedVersion: 2
+        x: 13178
+        y: 248
+        width: 623
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4920ef10083244080800000000000000
+      internalID: -9204192705742241132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonCaminando_8
+      rect:
+        serializedVersion: 2
+        x: 14981
+        y: 248
+        width: 617
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ea469ce8d4a02e0800000000000000
+      internalID: -2158827795711218046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonCaminando_9
+      rect:
+        serializedVersion: 2
+        x: 16784
+        y: 248
+        width: 611
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57735715cdb938050800000000000000
+      internalID: 5801652115545077621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonCaminando_10
+      rect:
+        serializedVersion: 2
+        x: 18587
+        y: 248
+        width: 620
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d53b4d18b7b1b30800000000000000
+      internalID: 4259133670158458127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonCaminando_11
+      rect:
+        serializedVersion: 2
+        x: 20384
+        y: 248
+        width: 626
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b850c4150a14f4af0800000000000000
+      internalID: -410036884252916341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DragonCaminando_0: 7199951135977279049
+      DragonCaminando_1: 6283162556003888769
+      DragonCaminando_10: 4259133670158458127
+      DragonCaminando_11: -410036884252916341
+      DragonCaminando_2: 8706864959306336294
+      DragonCaminando_3: 2274549421443323736
+      DragonCaminando_4: -4344882294857648244
+      DragonCaminando_5: 8428205427337120015
+      DragonCaminando_6: 7599750258279892543
+      DragonCaminando_7: -9204192705742241132
+      DragonCaminando_8: -2158827795711218046
+      DragonCaminando_9: 5801652115545077621
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

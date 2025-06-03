@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 6c7eee40137089d4e9e21d7c20092a71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1646133733363865299
+    second: aldeanos_0
+  - first:
+      213: 8106082057087755145
+    second: aldeanos_1
+  - first:
+      213: 8934082116531492001
+    second: aldeanos_2
+  - first:
+      213: 6179418849193796623
+    second: aldeanos_3
+  - first:
+      213: -7593436357730368111
+    second: aldeanos_4
+  - first:
+      213: -4785788978296081326
+    second: aldeanos_5
+  - first:
+      213: 1589041773552351461
+    second: aldeanos_6
+  - first:
+      213: -9076326963855669395
+    second: aldeanos_7
+  - first:
+      213: -66025261434509896
+    second: aldeanos_8
+  - first:
+      213: -5530583199331576397
+    second: aldeanos_9
+  - first:
+      213: -8887463956730720630
+    second: aldeanos_10
+  - first:
+      213: 4168268533966531550
+    second: aldeanos_11
+  - first:
+      213: 1658270606490596802
+    second: aldeanos_12
+  - first:
+      213: -575337266832090750
+    second: aldeanos_13
+  - first:
+      213: 1326149636888866379
+    second: aldeanos_14
+  - first:
+      213: 2651712220707388308
+    second: aldeanos_15
+  - first:
+      213: 8015350462531577851
+    second: aldeanos_16
+  - first:
+      213: -5794658749643863237
+    second: aldeanos_17
+  - first:
+      213: 3328714482195247396
+    second: aldeanos_18
+  - first:
+      213: 5851512000101336289
+    second: aldeanos_19
+  - first:
+      213: -5875278144906174740
+    second: aldeanos_20
+  - first:
+      213: -1593795243597320726
+    second: aldeanos_21
+  - first:
+      213: 2429234070505145134
+    second: aldeanos_22
+  - first:
+      213: 1855705397834811357
+    second: aldeanos_23
+  - first:
+      213: 5346102762906009325
+    second: aldeanos_24
+  - first:
+      213: -4160776380839267572
+    second: aldeanos_25
+  - first:
+      213: 6992678509853594284
+    second: aldeanos_26
+  - first:
+      213: -5741129206166865018
+    second: aldeanos_27
+  - first:
+      213: -7110444258649295969
+    second: aldeanos_28
+  - first:
+      213: 4127695465647304195
+    second: aldeanos_29
+  - first:
+      213: -8580837892832879462
+    second: aldeanos_30
+  - first:
+      213: 7197248812980269005
+    second: aldeanos_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aldeanos_0
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 68
+        width: 90
+        height: 144
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d292f025712c729e0800000000000000
+      internalID: -1646133733363865299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 68
+        width: 90
+        height: 150
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98322ecdea69e7070800000000000000
+      internalID: 8106082057087755145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_2
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 68
+        width: 78
+        height: 126
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a49706a95c3cfb70800000000000000
+      internalID: 8934082116531492001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_3
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 68
+        width: 90
+        height: 126
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04ac8014b4b1c550800000000000000
+      internalID: 6179418849193796623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_4
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 68
+        width: 78
+        height: 120
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19502f84dd1be9690800000000000000
+      internalID: -7593436357730368111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_5
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 68
+        width: 84
+        height: 114
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254beaac746759db0800000000000000
+      internalID: -4785788978296081326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_6
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 68
+        width: 78
+        height: 114
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e838dde2196d0610800000000000000
+      internalID: 1589041773552351461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_7
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 68
+        width: 78
+        height: 108
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67451ef6b86a0280800000000000000
+      internalID: -9076326963855669395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_8
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 68
+        width: 102
+        height: 144
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b56ef1ef5e651ff0800000000000000
+      internalID: -66025261434509896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_9
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 68
+        width: 102
+        height: 150
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5191be1eb6f33b0800000000000000
+      internalID: -5530583199331576397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_10
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 68
+        width: 90
+        height: 144
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e4af08e9269a480800000000000000
+      internalID: -8887463956730720630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_11
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 68
+        width: 90
+        height: 150
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb638fa52aa8d930800000000000000
+      internalID: 4168268533966531550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_12
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 68
+        width: 90
+        height: 144
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5f759a45c530710800000000000000
+      internalID: 1658270606490596802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_13
+      rect:
+        serializedVersion: 2
+        x: 3984
+        y: 68
+        width: 90
+        height: 150
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289dd68ddcdf308f0800000000000000
+      internalID: -575337266832090750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_14
+      rect:
+        serializedVersion: 2
+        x: 4302
+        y: 67
+        width: 91
+        height: 145
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e26c9811e676210800000000000000
+      internalID: 1326149636888866379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_15
+      rect:
+        serializedVersion: 2
+        x: 4590
+        y: 68
+        width: 84
+        height: 150
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b73d12736ccc420800000000000000
+      internalID: 2651712220707388308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_16
+      rect:
+        serializedVersion: 2
+        x: 4896
+        y: 68
+        width: 90
+        height: 144
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7257d47ce3c3f60800000000000000
+      internalID: 8015350462531577851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_17
+      rect:
+        serializedVersion: 2
+        x: 5190
+        y: 68
+        width: 84
+        height: 150
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b4ed0919c359fa0800000000000000
+      internalID: -5794658749643863237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_18
+      rect:
+        serializedVersion: 2
+        x: 5496
+        y: 68
+        width: 90
+        height: 144
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42132fd6f28f13e20800000000000000
+      internalID: 3328714482195247396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_19
+      rect:
+        serializedVersion: 2
+        x: 5790
+        y: 68
+        width: 84
+        height: 150
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4c9f4592fb43150800000000000000
+      internalID: 5851512000101336289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_20
+      rect:
+        serializedVersion: 2
+        x: 6102
+        y: 68
+        width: 96
+        height: 150
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee5040e7a1d67ea0800000000000000
+      internalID: -5875278144906174740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_21
+      rect:
+        serializedVersion: 2
+        x: 6384
+        y: 68
+        width: 108
+        height: 156
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedaca49ba3b1e9e0800000000000000
+      internalID: -1593795243597320726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_22
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 68
+        width: 72
+        height: 144
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e234cb8348f56b120800000000000000
+      internalID: 2429234070505145134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_23
+      rect:
+        serializedVersion: 2
+        x: 7002
+        y: 68
+        width: 78
+        height: 150
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd708b53a3ac0c910800000000000000
+      internalID: 1855705397834811357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_24
+      rect:
+        serializedVersion: 2
+        x: 7290
+        y: 68
+        width: 114
+        height: 144
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee3fb3532c213a40800000000000000
+      internalID: 5346102762906009325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_25
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 68
+        width: 120
+        height: 150
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c037d362de3f146c0800000000000000
+      internalID: -4160776380839267572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_26
+      rect:
+        serializedVersion: 2
+        x: 7884
+        y: 68
+        width: 120
+        height: 150
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2d4505e0cfa0160800000000000000
+      internalID: 6992678509853594284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_27
+      rect:
+        serializedVersion: 2
+        x: 8178
+        y: 68
+        width: 120
+        height: 156
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bbdc0a7696350b0800000000000000
+      internalID: -5741129206166865018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_28
+      rect:
+        serializedVersion: 2
+        x: 8520
+        y: 68
+        width: 60
+        height: 144
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f933ef79e90a25d90800000000000000
+      internalID: -7110444258649295969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_29
+      rect:
+        serializedVersion: 2
+        x: 8802
+        y: 68
+        width: 78
+        height: 150
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ee5e21825884930800000000000000
+      internalID: 4127695465647304195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_30
+      rect:
+        serializedVersion: 2
+        x: 9102
+        y: 68
+        width: 96
+        height: 144
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c1c72566dbae880800000000000000
+      internalID: -8580837892832879462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aldeanos_31
+      rect:
+        serializedVersion: 2
+        x: 9390
+        y: 68
+        width: 102
+        height: 150
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf6ac9a9a3c1e360800000000000000
+      internalID: 7197248812980269005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6ee33cceab20f434f882bbf23b5f0fe9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      aldeanos_0: -1646133733363865299
+      aldeanos_1: 8106082057087755145
+      aldeanos_10: -8887463956730720630
+      aldeanos_11: 4168268533966531550
+      aldeanos_12: 1658270606490596802
+      aldeanos_13: -575337266832090750
+      aldeanos_14: 1326149636888866379
+      aldeanos_15: 2651712220707388308
+      aldeanos_16: 8015350462531577851
+      aldeanos_17: -5794658749643863237
+      aldeanos_18: 3328714482195247396
+      aldeanos_19: 5851512000101336289
+      aldeanos_2: 8934082116531492001
+      aldeanos_20: -5875278144906174740
+      aldeanos_21: -1593795243597320726
+      aldeanos_22: 2429234070505145134
+      aldeanos_23: 1855705397834811357
+      aldeanos_24: 5346102762906009325
+      aldeanos_25: -4160776380839267572
+      aldeanos_26: 6992678509853594284
+      aldeanos_27: -5741129206166865018
+      aldeanos_28: -7110444258649295969
+      aldeanos_29: 4127695465647304195
+      aldeanos_3: 6179418849193796623
+      aldeanos_30: -8580837892832879462
+      aldeanos_31: 7197248812980269005
+      aldeanos_4: -7593436357730368111
+      aldeanos_5: -4785788978296081326
+      aldeanos_6: 1589041773552351461
+      aldeanos_7: -9076326963855669395
+      aldeanos_8: -66025261434509896
+      aldeanos_9: -5530583199331576397
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

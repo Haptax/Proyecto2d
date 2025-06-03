@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: 802dfb23112a6ab4fae718c3e7313fd3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6631363330374737306
+    second: AtaqueFuego_0
+  - first:
+      213: 2321620458552896131
+    second: AtaqueFuego_1
+  - first:
+      213: -2771692633509792889
+    second: AtaqueFuego_2
+  - first:
+      213: -4981919313842355902
+    second: AtaqueFuego_3
+  - first:
+      213: 7734778029625114077
+    second: AtaqueFuego_4
+  - first:
+      213: 8397784339952731044
+    second: AtaqueFuego_5
+  - first:
+      213: 3653975217219966355
+    second: AtaqueFuego_6
+  - first:
+      213: 3080193091801044904
+    second: AtaqueFuego_7
+  - first:
+      213: 7764060429364909913
+    second: AtaqueFuego_8
+  - first:
+      213: 211178513269765015
+    second: AtaqueFuego_9
+  - first:
+      213: 8000063720333910080
+    second: AtaqueFuego_10
+  - first:
+      213: 8614973926868934220
+    second: AtaqueFuego_11
+  - first:
+      213: -2948296932548335200
+    second: AtaqueFuego_12
+  - first:
+      213: -3435596727068053111
+    second: AtaqueFuego_13
+  - first:
+      213: 6666219304814223435
+    second: AtaqueFuego_14
+  - first:
+      213: -5169900043148640323
+    second: AtaqueFuego_15
+  - first:
+      213: 6160107708590848555
+    second: AtaqueFuego_16
+  - first:
+      213: 6643983735162520218
+    second: AtaqueFuego_17
+  - first:
+      213: 1754849244737151361
+    second: AtaqueFuego_18
+  - first:
+      213: -7389462563263440836
+    second: AtaqueFuego_19
+  - first:
+      213: -5123310884167183900
+    second: AtaqueFuego_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AtaqueFuego_0
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 83
+        width: 168
+        height: 89
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d998380d5570c50800000000000000
+      internalID: 6631363330374737306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueFuego_1
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 83
+        width: 167
+        height: 89
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a235fa18d083020800000000000000
+      internalID: 2321620458552896131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueFuego_2
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 83
+        width: 167
+        height: 89
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783f4112c38f889d0800000000000000
+      internalID: -2771692633509792889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueFuego_3
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 83
+        width: 184
+        height: 89
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241c4c687caacdab0800000000000000
+      internalID: -4981919313842355902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueFuego_4
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 83
+        width: 206
+        height: 89
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddfc4823a3775b60800000000000000
+      internalID: 7734778029625114077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueFuego_5
+      rect:
+        serializedVersion: 2
+        x: 3182
+        y: 83
+        width: 243
+        height: 89
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a388332d5cea8470800000000000000
+      internalID: 8397784339952731044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueFuego_6
+      rect:
+        serializedVersion: 2
+        x: 3782
+        y: 83
+        width: 244
+        height: 89
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3951a78b91785b230800000000000000
+      internalID: 3653975217219966355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueFuego_7
+      rect:
+        serializedVersion: 2
+        x: 4382
+        y: 83
+        width: 247
+        height: 89
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7d9642c4b0fba20800000000000000
+      internalID: 3080193091801044904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueFuego_8
+      rect:
+        serializedVersion: 2
+        x: 4982
+        y: 83
+        width: 254
+        height: 89
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95756f223db7fbb60800000000000000
+      internalID: 7764060429364909913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueFuego_10
+      rect:
+        serializedVersion: 2
+        x: 5582
+        y: 83
+        width: 254
+        height: 89
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0402ef6419fe50f60800000000000000
+      internalID: 8000063720333910080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueFuego_14
+      rect:
+        serializedVersion: 2
+        x: 6182
+        y: 83
+        width: 168
+        height: 89
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40ad4a732b238c50800000000000000
+      internalID: 6666219304814223435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueFuego_15
+      rect:
+        serializedVersion: 2
+        x: 6782
+        y: 83
+        width: 167
+        height: 89
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf39d35d43d048b0800000000000000
+      internalID: -5169900043148640323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueFuego_16
+      rect:
+        serializedVersion: 2
+        x: 7382
+        y: 83
+        width: 167
+        height: 89
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2af3b4c2591d7550800000000000000
+      internalID: 6160107708590848555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtaqueFuego_17
+      rect:
+        serializedVersion: 2
+        x: 7982
+        y: 83
+        width: 167
+        height: 89
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92c5db710c243c50800000000000000
+      internalID: 6643983735162520218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 05a52a3c0e624d846b3267aacf3b5443
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AtaqueFuego_0: 6631363330374737306
+      AtaqueFuego_1: 2321620458552896131
+      AtaqueFuego_10: 8000063720333910080
+      AtaqueFuego_11: 8614973926868934220
+      AtaqueFuego_12: -2948296932548335200
+      AtaqueFuego_13: -3435596727068053111
+      AtaqueFuego_14: 6666219304814223435
+      AtaqueFuego_15: -5169900043148640323
+      AtaqueFuego_16: 6160107708590848555
+      AtaqueFuego_17: 6643983735162520218
+      AtaqueFuego_18: 1754849244737151361
+      AtaqueFuego_19: -7389462563263440836
+      AtaqueFuego_2: -2771692633509792889
+      AtaqueFuego_20: -5123310884167183900
+      AtaqueFuego_3: -4981919313842355902
+      AtaqueFuego_4: 7734778029625114077
+      AtaqueFuego_5: 8397784339952731044
+      AtaqueFuego_6: 3653975217219966355
+      AtaqueFuego_7: 3080193091801044904
+      AtaqueFuego_8: 7764060429364909913
+      AtaqueFuego_9: 211178513269765015
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
